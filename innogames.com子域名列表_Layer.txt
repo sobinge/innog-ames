@@ -1,0 +1,25 @@
+域名	解析IP	开放端口	WEB服务器	网站状态
+www.innogames.com	151.101.110.217	80,443	获取失败	80:-
+mail.innogames.com	193.169.180.193	80	nginx	80:正常访问
+news.innogames.com	193.169.180.193	80,443	nginx	80:正常访问
+call.innogames.com	212.53.158.206	80,443,7001	Apache	80:正常访问
+forum.innogames.com	212.48.106.69	80,443	获取失败	80:-
+corporate.innogames.com	151.101.110.217	80,443	获取失败	80:-
+conferencing.innogames.com	212.53.158.210	443	获取失败	443:-
+legal.innogames.com	212.72.174.238	80,443	nginx	80:正常访问
+link.innogames.com	212.72.174.142	80,443	获取失败	80:-
+media.innogames.com	212.53.194.4	80,443	nginx	80:正常访问
+om.innogames.com	212.48.99.35	443	获取失败	443:-
+press.innogames.com	99.81.176.107,99.80.74.11,99.81.110.77	443	获取失败	443:-
+pn.innogames.com	213.203.239.5	80,443	Apache	80:正常访问
+support.innogames.com	212.53.146.120	80,443	nginx	80:(500) 内部服务器错误
+tech.innogames.com	212.48.106.82	443	获取失败	443:-
+welcome.innogames.com	212.53.158.214	443	nginx	443:正常访问
+mx0.innogames.com	212.48.106.5	80,443	nginx	80:(400) 错误的请求
+adjust.innogames.com	212.72.174.232	-	端口未开放	端口未开放
+verify.innogames.com	52.4.250.90,3.209.163.48	80	nginx	80:正常访问
+facebook.innogames.com	80.252.99.240	-	端口未开放	端口未开放
+openvpn.bjbgp.innogames.com	249.129.46.48	-	端口未开放	端口未开放
+openvpn.innogames.com	54.76.135.1	-	端口未开放	端口未开放
+ilh.innogames.com	212.48.98.137	-	端口未开放	端口未开放
+sip.innogames.com	212.53.158.206	80,443,7001	获取失败	80:-
